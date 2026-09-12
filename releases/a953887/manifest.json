@@ -1,0 +1,7 @@
+{
+  "version": "a953887",
+  "sha256": "fb3507b10d14080b7f1c8210bb4dbc568459c5d4024f441d93c3d97df1af2c3c",
+  "size": 620080,
+  "builtWith": "ESP-IDF v5.5",
+  "commit": "9b9d92f60341e7fb634901202f9a19d8b4fd4609"
+}
